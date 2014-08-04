@@ -1,1 +1,1 @@
-class { 'tomcat7': }
+class { 'tomcat7-module': }
